@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1538162837 source:c:\documents and settings\aga\pulpit\programowanie\c++\dungeonrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<cmath>
+	<conio.h>
+
+1538162837 source:c:\programowanie\c++\dungeonrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<cmath>
+	<conio.h>
+
